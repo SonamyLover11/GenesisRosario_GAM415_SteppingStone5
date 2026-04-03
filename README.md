@@ -4,7 +4,7 @@
 Rosario_GAM415_Final
 
 ## Course
-GAM 415 - Graphics API and Engine
+GAM 415 - Graphics Game Engine 
 
 ## Description
 This project implements the required functionality for Stepping Stone 5, including portal system mechanics, scene capture components, and render targets.
